@@ -1,0 +1,2 @@
+# build project
+docker build .
